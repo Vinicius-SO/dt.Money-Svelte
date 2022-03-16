@@ -20,7 +20,6 @@
         --text-title: #363F5F;
         --text-body: #969CB3;
 
-        --background: #f0f2f5;
         --shape: #FFFFFF;
 
   }
@@ -29,6 +28,7 @@
       margin:0;
       padding:0;
       box-sizing:border-box;
+      border: none;
   }
 
   main{

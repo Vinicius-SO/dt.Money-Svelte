@@ -9,7 +9,8 @@
 <style>
     
     header{
-        margin: 0 auto;
+        display: flex;
+        justify-content: center;
         width: 100vw;
         height: 30%;
         background: var(--blue)
