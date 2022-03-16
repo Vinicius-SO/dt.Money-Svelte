@@ -1,9 +1,11 @@
 <script>
+  import Dashboard from './components/Dashboard.svelte';
   import HeaderContainer from './components/HeaderContainer.svelte';
 </script>
 
 <main>
   <HeaderContainer/>
+  <Dashboard/>
 </main>
 
 
@@ -32,14 +34,10 @@
   }
 
   main{
+      margin: 0 auto;
       background: var(--background);
       width: 100vw;
       height: 100vh;
       
-  }
-    
-
-  main{
-    background: --;
   }
 </style>
