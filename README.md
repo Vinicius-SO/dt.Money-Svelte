@@ -11,3 +11,10 @@ Este projeto é baseado em um dos projetos da trilha react do bootcamp ignite,
  ele inteiro é feito com svelte para exercitar os conhecimentos adquiridos na documentação do
  framework
 
+
+## Tecnologias Usadas
+- ViteJS
+- Svelte
+- Git
+- Visual Studio Code
+
